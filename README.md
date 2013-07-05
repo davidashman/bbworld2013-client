@@ -1,4 +1,4 @@
-basic-b2-template
+bbworld2013-client
 =================
 
-This project provides the framework for starting a new Building Block (B2) project for Blackboard Learn.  Fork this project and make changes as necessary for your project.
+This project provides an example "client" Building Block for the bbworld2013-api project.
